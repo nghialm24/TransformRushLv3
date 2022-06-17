@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 768992bcc443f8e4b933940d64415648
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7721715186239825389
+    second: Armature.001|Action
+  - first:
+      74: -2185431918494114747
+    second: Armature.001|banh_xe1.001Action
+  - first:
+      74: 4427264482073404792
+    second: Armature.001|banh_xe1.001Action.001
+  - first:
+      74: 3060324564711311405
+    second: Armature.001|banh_xe1Action
+  - first:
+      74: 5802328388796669030
+    second: Armature.001|banh_xe1Action.001
+  - first:
+      74: 1060826422067690411
+    second: Armature.001|banh_xe6.001Action
+  - first:
+      74: -2816976256618956026
+    second: Armature.001|banh_xe6Action
+  - first:
+      74: -2385807222849565368
+    second: Armature.001|car bone
+  - first:
+      74: 5382013476519032467
+    second: Armature.001|car bone.001
+  - first:
+      74: -5375361401018613216
+    second: Armature.001|car bone.002
+  - first:
+      74: 4243522293124671030
+    second: Armature.001|robotAction
+  - first:
+      74: -8721497426924971939
+    second: Armature.001|robotAction.001
+  - first:
+      74: -1884548816711536730
+    second: Armature.001|robotAction.002
+  - first:
+      74: 769219690319860589
+    second: Armature.001|robotAction.003
+  - first:
+      74: 3653581980871317225
+    second: Armature.001|robotAction.004
+  - first:
+      74: 3353133397873207637
+    second: Armature.001|sidemirror001.001Action
+  - first:
+      74: -5582161936297188103
+    second: Armature.001|sidemirror001.003Action
+  - first:
+      74: 3453958994643971755
+    second: Armature.001|sidemirror001.004Action
+  - first:
+      74: 7624100410452140855
+    second: Armature.001|sidemirror001.006Action
+  - first:
+      74: 221027842871591140
+    second: Armature.001|sidemirror001.007Action.001
+  - first:
+      74: 299142100428935624
+    second: Armature.001|sidemirror001.009Action
+  - first:
+      74: -721199288246288466
+    second: Armature.001|sidemirror001.010Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 91aba128c1e83cb479b36e5aba37076c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
